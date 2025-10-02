@@ -7,7 +7,7 @@ Prompting Principles
     - Delimiters can be anything like: ```, """, < >, `<tag> </tag>`, `:`
 
     * Tactic 2: Ask for a structured output
-    *- JSON, HTML
+    - JSON, HTML
 
     * Tactic 3: Ask the model to check whether conditions are satisfied
 

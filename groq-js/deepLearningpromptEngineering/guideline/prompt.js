@@ -1,3 +1,10 @@
+/**
+ * 
+ * Practice two prompting principles and their related tactics in order to write effective prompts 
+ * for large language models.
+ * 
+ */
+
 import * as dotenv from 'dotenv'
 dotenv.config() 
 
